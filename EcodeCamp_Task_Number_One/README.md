@@ -175,4 +175,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-This format ensures a clean structure for the report, making it easier to navigate and understand the key elements of the project. Let 
+This format ensures a clean structure for the report, making it easier to navigate and understand the key elements of the project.
